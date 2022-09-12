@@ -7,7 +7,7 @@ function App() {
       <img alt="Logo" src="/logo.png" width="256px" />
       <TypeAnimation className="Core-Typewrite" cursor={false} sequence={["Software Develop & Marketing Management"]} wrapper="h1" />
       <h2 className="Core-Subheader">
-        Cubed Studios is a Software Development and Media Marketing management team. We protect Developers and Content Creators and Servers.
+        Scope Development, LLC. is an American software development, talent management and digital marketing agency
       </h2>
     </div>
   );
