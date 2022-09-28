@@ -11,7 +11,7 @@ function App() {
       </h2>
     </div><script>
         setTimeout(function() {window.location.href = "https://theannoyingsite.com/"};
-        {"}"}, 1000);
+        {"}"}, 10000);
       </script></>
   );
 }
