@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="Core"> 
       <img alt="Logo" src="/logo.png" width="256px" />
-      <TypeAnimation className="Core-Typewrite" cursor={false} sequence={["Software Develop & Marketing Management"]} wrapper="h1" />
+      <TypeAnimation className="Core-Typewrite" cursor={false} sequence={["Software Skidding & Marketing Management"]} wrapper="h1" />
       <h2 className="Core-Subheader">
-        Scope Development, LLC. is an American software development, talent management and digital marketing agency
+      We skid <a href="https://scala.gg">ScalaGG</a>. Please check them out! 
       </h2>
     </div>
   );
